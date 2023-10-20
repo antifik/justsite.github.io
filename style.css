@@ -1,0 +1,19 @@
+*
+.conteiner{
+    background-color: black;
+    border: 20px ridge;
+    margin: 200px;
+    padding: 150px;
+    
+}
+
+body{
+    background-color: blue;
+}
+a{
+    text-decoration: none;
+    color: blue;
+    margin-left:300px;
+    font-size:80px;
+    
+}
